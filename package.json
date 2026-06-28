@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-docker-app",
+  "version": "1.0.0",
+  "description": "Docker GitHub Actions Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
